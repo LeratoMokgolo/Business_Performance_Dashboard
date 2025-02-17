@@ -28,4 +28,4 @@ Here’s a snapshot of the dashboard:
 
 ---
 💡 _For questions or collaborations, feel free to reach out!_
-![Dashboard Preview](https://raw.githubusercontent.com/LeratoMokgolo/Business_Performance_Dashboard/main/dashboard_preview.png)
+![Dashboard Preview](https://github.com/LeratoMokgolo/Business_Performance_Dashboard/blob/main/dashboard_preview.png)
